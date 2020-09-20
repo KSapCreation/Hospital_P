@@ -45,7 +45,7 @@
         <div class="page-content">
             <div class="container">
 
-                <!-- BEGIN PAGE CONTENT INNER -->
+                <!-- BEGIN PAGE CONTENT INNER  test purpose only-->
                 <div class="row">
                     <div class="col-md-12">
                         
