@@ -1,0 +1,12 @@
+Lab -> https://www.youtube.com/watch?v=Fpur6MCwAuk
+Billing -> https://www.youtube.com/watch?v=5KHY8B259ik
+
+---Lab System
+Test Master -> Test information and name of test.
+Parameter Master -> Test Parametter.
+Parameter Mapping -> Test Parametter Mapping in test screen.
+
+
+
+----
+https://www.youtube.com/watch?v=_4Dpp_b6tKU (Gridview add concept)

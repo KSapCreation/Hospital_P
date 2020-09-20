@@ -1,0 +1,3 @@
+KSCN Database IP - 184.168.194.64:1433
+USerName - KSCN
+Password - 6atqC5#0
